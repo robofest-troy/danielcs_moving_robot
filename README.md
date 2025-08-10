@@ -11,7 +11,7 @@ colcon build --merge-install --packages-select urdf_robot
 source install
 
 ```bash
-source install/setup/bash
+source install/setup.bash
 ```
 
 launch the ros2 state publisher
