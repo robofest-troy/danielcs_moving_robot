@@ -4,7 +4,7 @@
   <name>urdf_robot</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="danielchen6788@gmail.com">daniel</maintainer>
+  <maintainer email="danielchen6788@gmail.com">danniel</maintainer>
   <license>Apache-2.0</license>
 
   <depend>rclpy</depend>
